@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>final_suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>93904058-6d36-4768-bf0b-04c4c3f47308</testSuiteGuid>
+   <testCaseLink>
+      <guid>014a2848-765a-4d7d-b7cf-d85dc88a9157</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Attributes/attribute_tc</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c9e16612-8932-4265-add6-dd8788be447a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/bind/bind_tcs</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>c9e16612-8932-4265-add6-dd8788be447a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>9c60bfd9-b794-4ff7-ac99-799956f8cf68</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c9e16612-8932-4265-add6-dd8788be447a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>05873964-a00a-44cb-9903-c391f74d220b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9867427e-b315-48d9-b55b-387ec12c6d80</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Attributes/CSS_ATTRI</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b7220b10-8d9c-49cb-ac8f-1d1708641484</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/bind/bind_tcs</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b7220b10-8d9c-49cb-ac8f-1d1708641484</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>68bfb779-28c1-4700-9a0a-a8593077f023</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b7220b10-8d9c-49cb-ac8f-1d1708641484</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>d15f2c8b-c54f-4f3e-aed3-497ea6a8ca5d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5ddd4de4-548a-472f-9708-22d7925e177e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Attributes/img</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4b80506f-9afa-4209-b8d3-961f7804fb81</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/bind/bind_tcs</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>4b80506f-9afa-4209-b8d3-961f7804fb81</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>a93c1cf9-e88f-4e6f-a418-b2cf1c85d65d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4b80506f-9afa-4209-b8d3-961f7804fb81</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>cef40f38-43ea-4342-8e0e-7ac901d74d96</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
